@@ -1,0 +1,13 @@
+{
+  "webAppName": "",
+  "sslMode": false,
+  "proxyPort": "",
+  "hostname": "127.0.0.1",
+  "nonProxyHosts": "",
+  "overrideExistingProperties": false,
+  "password": "Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8",
+  "port": "8089",
+  "name": "server",
+  "proxyHostname": "",
+  "username": "cluster"
+}

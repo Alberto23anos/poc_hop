@@ -1,0 +1,59 @@
+{
+  "variables" : [ {
+    "name" : "var_mysql_host",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "var_mysql_dbs",
+    "value" : "nasa",
+    "description" : ""
+  }, {
+    "name" : "var_mysql_port",
+    "value" : "3306",
+    "description" : ""
+  }, {
+    "name" : "var_mysql_usr",
+    "value" : "root",
+    "description" : ""
+  }, {
+    "name" : "var_mysql_pds",
+    "value" : "",
+    "description" : ""
+  }, {
+    "name" : "var_bi_port",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "var_bi_host",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "var_bi_database",
+    "value" : "bi_ods",
+    "description" : ""
+  }, {
+    "name" : "var_bi_user",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "var_bi_password",
+    "value" : "Services.22",
+    "description" : ""
+  }, {
+    "name" : "var_bi_adm_dbs",
+    "value" : "bi_administration",
+    "description" : ""
+  }, {
+    "name" : "var_bi_ods_dbs",
+    "value" : "bi_ods",
+    "description" : ""
+  }, {
+    "name" : "var_bi_stg_dbs",
+    "value" : "bi_staging",
+    "description" : ""
+  }, {
+    "name" : "var_bi_dwh_dbs",
+    "value" : "bi_dwh",
+    "description" : ""
+  } ]
+}

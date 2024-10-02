@@ -1,2 +1,2 @@
-# poc_hop
-porva de conceito com o hop
+# sales_management
+POC - apache hop  "sales managent"
