@@ -100,8 +100,8 @@
       <type>DUMMY</type>
       <attributes/>
       <parallel>N</parallel>
-      <xloc>576</xloc>
-      <yloc>96</yloc>
+      <xloc>544</xloc>
+      <yloc>80</yloc>
       <attributes_hac/>
     </action>
   </actions>
